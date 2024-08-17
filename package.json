@@ -1,5 +1,6 @@
 {
   "name": "electron-tutorial",
+  "productName": "electron-tutorial",
   "version": "1.0.0",
   "description": "tutorial basics for electron framework",
   "main": "main.js",
