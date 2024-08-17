@@ -1,0 +1,24 @@
+{
+  "name": "electron-tutorial",
+  "version": "1.0.0",
+  "description": "tutorial basics for electron framework",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagen-tm/electron-tutorial.git"
+  },
+  "author": "nagen-tm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagen-tm/electron-tutorial/issues"
+  },
+  "homepage": "https://github.com/nagen-tm/electron-tutorial#readme",
+  "devDependencies": {
+    "@electron-forge/cli": "^7.4.0",
+    "electron": "^31.4.0"
+  }
+}
