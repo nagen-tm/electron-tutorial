@@ -18,3 +18,4 @@
 
 The entry point should be main.js
 
+Reviewed from 49:56 - need to add toastify alert
